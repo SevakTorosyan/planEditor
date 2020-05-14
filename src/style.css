@@ -1,0 +1,10 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+canvas {
+    /*width: 720px;*/
+    height: 720px;
+}
+
+input{
+    margin-left: 10px;
+}
